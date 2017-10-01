@@ -1,4 +1,5 @@
 This is my content.
+<<<<<<< HEAD
 This change is bullshit. My friend, I am sorry to inform you, but you are fired. SadFace :/
 Blah blah blah, this is rubbish. You are the worst boss to ever walk on this Earth. Don't bother to fake sadness, I was quitting anyways.
 
@@ -15,3 +16,10 @@ Some new changes.
 
 You are all losers. I am the one true master. 
 >>>>>>> abb016538e1adf9e6f7c7a7eb4406d4c3f6da42f
+=======
+==> I did not enjoy the last change. This is much much better:/
+
+Made some changes.This is my content.
+This change is bullshit. My friend, I am sorry to inform you, but you are fired. SadFace :/
+Well, I was quitting anyways!
+>>>>>>> abf44f1e1110443e4ace7345278a8122225c1939
