@@ -23,3 +23,5 @@ Made some changes.This is my content.
 This change is bullshit. My friend, I am sorry to inform you, but you are fired. SadFace :/
 Well, I was quitting anyways!
 >>>>>>> abf44f1e1110443e4ace7345278a8122225c1939
+
+One git to rule them all!
